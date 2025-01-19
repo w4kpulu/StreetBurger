@@ -1,0 +1,5 @@
+Amar,Amar@gmail.com,76553453,Jalan Angsana,Amar123
+Hafiz,Hafiz@gmail.com,12345678,Jalan Aman,hafiz123
+Alif,Alif@gmail.com,8778667463,Jalan Melati,alif123
+athirah,tirah@gmail.com,011-53281656,Jalan Seroja,1234
+Athirah,nur@gmail.com,0194781629,Jalan Pegawai,098

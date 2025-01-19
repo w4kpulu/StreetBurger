@@ -1,0 +1,13 @@
+***** Receipt *****
+User: tirah@gmail.com
+Total Amount: RM26.40
+Delivery Info: Jalan Seroja
+
+Items Purchased:
+Name: athirah
+BBQ Smokehouse Burger (x1) - RM12.9
+Soft Drinks (x1) - RM3.5
+
+Total: RM16.40
+Thank you for your purchase!
+***** End of Receipt *****
